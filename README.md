@@ -1,1 +1,1 @@
-week 2 pyrhon Assignment Completed 
+week 2 python Assignment Completed 
